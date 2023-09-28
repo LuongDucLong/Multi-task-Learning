@@ -1,0 +1,659 @@
+{
+    "market": {
+        "young": [
+            "age",
+            [
+                null,
+                "young"
+            ]
+        ],
+        "teenager": [
+            "age",
+            [
+                null,
+                "teenager"
+            ]
+        ],
+        "adult": [
+            "age",
+            [
+                null,
+                "adult"
+            ]
+        ],
+        "old": [
+            "age",
+            [
+                null,
+                "old"
+            ]
+        ],
+        "backpack": [
+            "carrying backpack",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "bag": [
+            "carrying bag",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "handbag": [
+            "carrying handbag",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "clothes": [
+            "type of lower-body clothing",
+            [
+                "dress",
+                "pants"
+            ]
+        ],
+        "down": [
+            "length of lower-body clothing",
+            [
+                "long lower body clothing",
+                "short"
+            ]
+        ],
+        "up": [
+            "sleeve length",
+            [
+                "long sleeve",
+                "short sleeve"
+            ]
+        ],
+        "hair": [
+            "hair length",
+            [
+                "short hair",
+                "long hair"
+            ]
+        ],
+        "hat": [
+            "wearing hat",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "gender": [
+            "gender",
+            [
+                "male",
+                "female"
+            ]
+        ],
+        "upblack": [
+            "color of upper-body clothing",
+            [
+                null,
+                "black"
+            ]
+        ],
+        "upwhite": [
+            "color of upper-body clothing",
+            [
+                null,
+                "white"
+            ]
+        ],
+        "upred": [
+            "color of upper-body clothing",
+            [
+                null,
+                "red"
+            ]
+        ],
+        "uppurple": [
+            "color of upper-body clothing",
+            [
+                null,
+                "purple"
+            ]
+        ],
+        "upyellow": [
+            "color of upper-body clothing",
+            [
+                null,
+                "yellow"
+            ]
+        ],
+        "upgray": [
+            "color of upper-body clothing",
+            [
+                null,
+                "gray"
+            ]
+        ],
+        "upblue": [
+            "color of upper-body clothing",
+            [
+                null,
+                "blue"
+            ]
+        ],
+        "upgreen": [
+            "color of upper-body clothing",
+            [
+                null,
+                "green"
+            ]
+        ],
+        "downblack": [
+            "color of lower-body clothing",
+            [
+                null,
+                "black"
+            ]
+        ],
+        "downwhite": [
+            "color of lower-body clothing",
+            [
+                null,
+                "white"
+            ]
+        ],
+        "downpink": [
+            "color of lower-body clothing",
+            [
+                null,
+                "pink"
+            ]
+        ],
+        "downpurple": [
+            "color of lower-body clothing",
+            [
+                null,
+                "purple"
+            ]
+        ],
+        "downyellow": [
+            "color of lower-body clothing",
+            [
+                null,
+                "yellow"
+            ]
+        ],
+        "downgray": [
+            "color of lower-body clothing",
+            [
+                null,
+                "gray"
+            ]
+        ],
+        "downblue": [
+            "color of lower-body clothing",
+            [
+                null,
+                "blue"
+            ]
+        ],
+        "downgreen": [
+            "color of lower-body clothing",
+            [
+                null,
+                "green"
+            ]
+        ],
+        "downbrown": [
+            "color of lower-body clothing",
+            [
+                null,
+                "brown"
+            ]
+        ]
+    },
+    "duke": {
+        "backpack": [
+            "carrying backpack",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "bag": [
+            "carrying bag",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "handbag": [
+            "carrying handbag",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "boots": [
+            "wearing boots",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "gender": [
+            "gender",
+            [
+                "male",
+                "female"
+            ]
+        ],
+        "hat": [
+            "wearing hat",
+            [
+                "no",
+                "yes"
+            ]
+        ],
+        "shoes": [
+            "color of shoes",
+            [
+                "dark",
+                "light"
+            ]
+        ],
+        "top": [
+            "length of upper-body clothing",
+            [
+                "short upper body clothing",
+                "long"
+            ]
+        ],
+        "upblack": [
+            "color of upper-body clothing",
+            [
+                null,
+                "black"
+            ]
+        ],
+        "upwhite": [
+            "color of upper-body clothing",
+            [
+                null,
+                "white"
+            ]
+        ],
+        "upred": [
+            "color of upper-body clothing",
+            [
+                null,
+                "red"
+            ]
+        ],
+        "uppurple": [
+            "color of upper-body clothing",
+            [
+                null,
+                "purple"
+            ]
+        ],
+        "upgray": [
+            "color of upper-body clothing",
+            [
+                null,
+                "gray"
+            ]
+        ],
+        "upblue": [
+            "color of upper-body clothing",
+            [
+                null,
+                "blue"
+            ]
+        ],
+        "upgreen": [
+            "color of upper-body clothing",
+            [
+                null,
+                "green"
+            ]
+        ],
+        "upbrown": [
+            "color of upper-body clothing",
+            [
+                null,
+                "brown"
+            ]
+        ],
+        "downblack": [
+            "color of lower-body clothing",
+            [
+                null,
+                "black"
+            ]
+        ],
+        "downwhite": [
+            "color of lower-body clothing",
+            [
+                null,
+                "white"
+            ]
+        ],
+        "downred": [
+            "color of lower-body clothing",
+            [
+                null,
+                "red"
+            ]
+        ],
+        "downgray": [
+            "color of lower-body clothing",
+            [
+                null,
+                "gray"
+            ]
+        ],
+        "downblue": [
+            "color of lower-body clothing",
+            [
+                null,
+                "blue"
+            ]
+        ],
+        "downgreen": [
+            "color of lower-body clothing",
+            [
+                null,
+                "green"
+            ]
+        ],
+        "downbrown": [
+            "color of lower-body clothing",
+            [
+                null,
+                "brown"
+            ]
+        ]
+    },
+    "upar": {
+        "Age-Young": [
+            "age",
+            [
+                null,
+                "young"
+            ]
+        ],
+        "Age-Adult": [
+            "age",
+            [
+                null,
+                "adult"
+            ]
+        ],
+        "Age-Old": [
+            "age",
+            [
+                null,
+                "old"
+            ]
+        ],
+        "Gender-Female": [
+            "gender",
+            [
+                "male",
+                "female"
+            ]
+        ],
+        "Hair-Length-Short": [
+            "hair length",
+            [
+                null,
+                "short hair"
+            ]
+        ],
+        "Hair-Length-Long": [
+            "hair length",
+            [
+                null,
+                "long hair"
+            ]
+        ],
+        "Hair-Length-Bald": [
+            "hair length",
+            [
+                null,
+                "bald"
+            ]
+        ],
+        "UpperBody-Length-Short": [
+            "upper body length",
+            [
+                "long",
+                "short"
+            ]
+        ],
+        "UpperBody-Color-Black": [
+            "color of upper-body clothing",
+            [
+                null,
+                "black"
+            ]
+        ],
+        "UpperBody-Color-Blue": [
+            "color of upper-body clothing",
+            [
+                null,
+                "blue"
+            ]
+        ],
+        "UpperBody-Color-Brown": [
+            "color of upper-body clothing",
+            [
+                null,
+                "brown"
+            ]
+        ],
+        "UpperBody-Color-Green": [
+            "color of upper-body clothing",
+            [
+                null,
+                "green"
+            ]
+        ],
+        "UpperBody-Color-Grey": [
+            "color of upper-body clothing",
+            [
+                null,
+                "grey"
+            ]
+        ],
+        "UpperBody-Color-Orange": [
+            "color of upper-body clothing",
+            [
+                null,
+                "orange"
+            ]
+        ],
+        "UpperBody-Color-Pink": [
+            "color of upper-body clothing",
+            [
+                null,
+                "pink"
+            ]
+        ],
+        "UpperBody-Color-Purple": [
+            "color of upper-body clothing",
+            [
+                null,
+                "purple"
+            ]
+        ],
+        "UpperBody-Color-Red": [
+            "color of upper-body clothing",
+            [
+                null,
+                "red"
+            ]
+        ],
+        "UpperBody-Color-White": [
+            "color of upper-body clothing",
+            [
+                null,
+                "white"
+            ]
+        ],
+        "UpperBody-Color-Yellow": [
+            "color of upper-body clothing",
+            [
+                null,
+                "yellow"
+            ]
+        ],
+        "UpperBody-Color-Other": [
+            "color of upper-body clothing",
+            [
+                null,
+                "other"
+            ]
+        ],
+        "LowerBody-Length-Short": [
+            "lower body length",
+            [
+                "long",
+                "short"
+            ]
+        ],
+        "LowerBody-Color-Black": [
+            "color of lower-body clothing",
+            [
+                null,
+                "black"
+            ]
+        ],
+        "LowerBody-Color-Blue": [
+            "color of lower-body clothing",
+            [
+                null,
+                "blue"
+            ]
+        ],
+        "LowerBody-Color-Brown": [
+            "color of lower-body clothing",
+            [
+                null,
+                "brown"
+            ]
+        ],
+        "LowerBody-Color-Green": [
+            "color of lower-body clothing",
+            [
+                null,
+                "green"
+            ]
+        ],
+        "LowerBody-Color-Grey": [
+            "color of lower-body clothing",
+            [
+                null,
+                "grey"
+            ]
+        ],
+        "LowerBody-Color-Orange": [
+            "color of lower-body clothing",
+            [
+                null,
+                "orange"
+            ]
+        ],
+        "LowerBody-Color-Pink": [
+            "color of lower-body clothing",
+            [
+                null,
+                "pink"
+            ]
+        ],
+        "LowerBody-Color-Purple": [
+            "color of lower-body clothing",
+            [
+                null,
+                "purple"
+            ]
+        ],
+        "LowerBody-Color-Red": [
+            "color of lower-body clothing",
+            [
+                null,
+                "red"
+            ]
+        ],
+        "LowerBody-Color-White": [
+            "color of lower-body clothing",
+            [
+                null,
+                "white"
+            ]
+        ],
+        "LowerBody-Color-Yellow": [
+            "color of lower-body clothing",
+            [
+                null,
+                "yellow"
+            ]
+        ],
+        "LowerBody-Color-Other": [
+            "color of lower-body clothing",
+            [
+                null,
+                "other"
+            ]
+        ],
+        "LowerBody-Type-Trousers&Shorts": [
+            "type of lower-body clothing",
+            [
+                null,
+                "trousers & shorts"
+            ]
+        ],
+        "LowerBody-Type-Skirt&Dress": [
+            "type of lower-body clothing",
+            [
+                null,
+                "skirt & dress"
+            ]
+        ],
+        "Accessory-Backpack": [
+            "accessory",
+            [
+                null,
+                "backpack"
+            ]
+        ],
+        "Accessory-Bag": [
+            "accessory",
+            [
+                null,
+                "bag"
+            ]
+        ],
+        "Accessory-Glasses-Normal": [
+            "accessory",
+            [
+                null,
+                "normal glasses"
+            ]
+        ],
+        "Accessory-Glasses-Sun": [
+            "accessory",
+            [
+                null,
+                "sunglasses"
+            ]
+        ],
+        "Accessory-Hat": [
+            "accessory",
+            [
+                null,
+                "hat"
+            ]
+        ]
+    }
+}
